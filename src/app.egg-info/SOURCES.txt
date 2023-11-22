@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/app/__init__.py
+src/app/main.py
+src/app/routes.py
+src/app/summarizer.py
+src/app.egg-info/PKG-INFO
+src/app.egg-info/SOURCES.txt
+src/app.egg-info/dependency_links.txt
+src/app.egg-info/top_level.txt
+tests/test_data.py
+tests/test_text_summary.py
